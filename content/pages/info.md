@@ -20,10 +20,6 @@ sections:
       ambições para o futuro é fazer uma licenciatura em Engenharia de
       informática ou em Programação de Desenvolvimento de Jogos
 
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
