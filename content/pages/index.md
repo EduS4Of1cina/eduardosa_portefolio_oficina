@@ -8,7 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-  url: /images/pexels-zac-santos-395824895-14797930.jpg
+  url: /images/pexels-danielabsi-952670.jpg
 sections:
   - elementId: ''
     colors: colors-f
