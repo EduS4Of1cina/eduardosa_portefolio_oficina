@@ -11,7 +11,7 @@ backgroundImage:
   url: /images/pexels-zac-santos-395824895-14797930.jpg
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: Eduardo Sá
     subtitle: >-
