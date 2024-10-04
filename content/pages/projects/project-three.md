@@ -7,7 +7,7 @@ client: Awesome client
 description: Neste projeto aprendi a trabalhar com o wordpress e as suas funcionalidades
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/imagem_2024-10-04_155228867.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
