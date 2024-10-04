@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: 'https://vimeo.com/1016177545?share=copy'
   elementId: ''
   autoplay: false
   loop: false
