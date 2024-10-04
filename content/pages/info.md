@@ -167,7 +167,7 @@ sections:
       - type: Label
         label: HTML 5
       - type: Label
-        label: java script
+        label: Java Script
       - type: Label
         label: Microsoft Office
       - type: Label
