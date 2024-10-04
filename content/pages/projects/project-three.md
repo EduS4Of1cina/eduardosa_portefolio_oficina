@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Projeto Woocommerce - Wordpress
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: ''
 description: Neste projeto aprendi a trabalhar com o wordpress e as suas funcionalidades
 featuredImage:
   type: ImageBlock
