@@ -11,7 +11,7 @@ backgroundImage:
   url: /images/pexels-zac-santos-395824895-14797930.jpg
 sections:
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundSize: full
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
