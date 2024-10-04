@@ -12,7 +12,7 @@ featuredImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: ''
+  url: 'https://files.fm/u/tuc43f6esm'
   elementId: ''
   autoplay: false
   loop: false
