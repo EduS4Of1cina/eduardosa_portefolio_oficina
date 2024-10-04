@@ -4,7 +4,7 @@ title: Projeto car DetailX - Wordpress
 colors: colors-a
 date: '2021-10-15'
 client: ''
-description: ''
+description: 'Neste projeto pude levar '
 featuredImage:
   type: ImageBlock
   url: /images/imagem_2024-10-04_163221772.png
