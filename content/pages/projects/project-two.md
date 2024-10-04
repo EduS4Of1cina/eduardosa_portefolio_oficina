@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Projeto PHP Simulação Site Razer
 colors: colors-a
-date: '2021-11-20'
+date: '2021-12-20'
 client: Awesome client
 description: >-
   Projeto feito em grupo de simular um site Razer. A minha parte neste trabalho
