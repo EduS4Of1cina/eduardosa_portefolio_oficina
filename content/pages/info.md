@@ -179,7 +179,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: MY SQL
   - type: DividerSection
     styles:
       self:
