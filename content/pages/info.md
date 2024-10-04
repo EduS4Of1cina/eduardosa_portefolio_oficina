@@ -175,7 +175,7 @@ sections:
       - type: Label
         label: PHP
       - type: Label
-        label: Pancakes
+        label: C#
       - type: Label
         label: C++
       - type: Label
