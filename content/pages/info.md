@@ -215,26 +215,17 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **2024**
 
-          * freelance @freelance.me
+          *   Estágio ROQ
 
-          **2018-2021**
+          **2023**
 
-          * fullstack at this startup
+          *   Estágio VB Informática - 2 dias
+          *   Estágio em Restaurante
+          *   Voluntário em Gala Bgreen - OFICINA
 
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
