@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Projeto PHP Simulação Site Razer
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
