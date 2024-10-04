@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: Awesome client
 description: >-
   Projeto feito em grupo de simular um site Razer. A minha parte neste trabalho
-  de grupo foi 
+  de grupo foi desenvolver a parte estética
 featuredImage:
   type: ImageBlock
   url: /images/imagem_2024-10-04_152959706.png
