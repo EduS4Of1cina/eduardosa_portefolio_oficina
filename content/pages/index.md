@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Eduardo Sá
     subtitle: >-
       Olá o sou o Eduardo tenho 16 anos, sou aluno da Escola Profissional,
