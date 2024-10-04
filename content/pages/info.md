@@ -14,14 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      Olá o sou o Eduardo tenho 16 anos, sou aluno da Escola Profissional,
+      # Olá o sou o Eduardo tenho 16 anos, sou aluno da Escola Profissional,
       Oficina, no curso de Gestão e Programação de Sistemas Informáticos gosto
       de desenhar jogar, programar, andar de bicicleta e ouvir musica, as minhas
       ambições para o futuro é fazer uma licenciatura em Engenharia de
       informática ou em Programação de Desenvolvimento de Jogos
-
-
-
 
     media:
       type: ImageBlock
