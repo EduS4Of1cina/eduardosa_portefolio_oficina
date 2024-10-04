@@ -14,7 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Eduardo Sá
-    subtitle: Olá sou o Eduardo frequento o curso de Gestão e Programação T
+    subtitle: >-
+      Olá o sou o Eduardo tenho 16 anos, sou aluno da Escola Profissional,
+      Oficina, no curso de Gestão e Programação de Sistemas Informáticos gosto
+      de desenhar jogar, programar, andar de bicicleta e ouvir musica, as minhas
+      ambições para o futuro é fazer uma licenciatura em Engenharia de
+      informática ou em Programação de Desenvolvimento de Jogos
     styles:
       self:
         height: auto
