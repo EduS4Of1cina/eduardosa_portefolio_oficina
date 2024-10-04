@@ -12,7 +12,8 @@ featuredImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: ''
+  url: >-
+    https://drive.google.com/file/d/1HeWUhxj1Hica-LXKpbe3ZXaswTRBqccj/view?usp=sharing
   elementId: ''
   autoplay: false
   loop: false
