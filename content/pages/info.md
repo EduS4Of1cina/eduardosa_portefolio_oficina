@@ -169,7 +169,7 @@ sections:
       - type: Label
         label: Java Script
       - type: Label
-        label: Microsoft Office
+        label: PHP
       - type: Label
         label: Next.js
       - type: Label
