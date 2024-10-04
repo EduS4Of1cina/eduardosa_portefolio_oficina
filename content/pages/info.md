@@ -173,7 +173,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: Netlify
+        label: PHP
       - type: Label
         label: Pancakes
       - type: Label
