@@ -122,7 +122,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/users/userid'
+            url: 'https://discord.com/users/731148458106552370'
         styles:
           self:
             textAlign: left
