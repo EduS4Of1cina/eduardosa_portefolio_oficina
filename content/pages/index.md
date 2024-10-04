@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 21
   url: /images/pexels-danielabsi-952670.jpg
 sections:
   - elementId: ''
