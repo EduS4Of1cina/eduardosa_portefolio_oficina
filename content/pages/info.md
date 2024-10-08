@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/pexels-danielabsi-952670.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,15 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: >+
+      ### Olá o sou o Eduardo tenho 16 anos, sou aluno da Escola Profissional,
+      Oficina, no curso de Gestão e Programação de Sistemas Informáticos gosto
+      de desenhar jogar, programar, andar de bicicleta e ouvir musica, as minhas
+      ambições para o futuro é fazer uma licenciatura em Engenharia de
+      informática ou em Programação de Desenvolvimento de Jogos
+
     styles:
       self:
         height: auto
@@ -60,28 +58,12 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: Empresas que estagiei
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/logo.png
         altText: Logo one
         caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -131,14 +113,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
         styles:
@@ -147,24 +121,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://discord.com/users/731148458106552370'
         styles:
           self:
             textAlign: left
@@ -207,21 +165,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: HTML 5
       - type: Label
-        label: React
+        label: Java Script
       - type: Label
-        label: Microsoft Office
+        label: PHP
       - type: Label
-        label: Next.js
+        label: Java
       - type: Label
-        label: Netlify
+        label: PHP
       - type: Label
-        label: Pancakes
+        label: C#
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: MY SQL
   - type: DividerSection
     styles:
       self:
@@ -239,7 +197,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [eduardonetosa@gmail.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -257,48 +215,17 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **2024**
 
-          * freelance @freelance.me
+          *   Estágio ROQ
 
-          **2018-2021**
+          **2023**
 
-          * fullstack at this startup
+          *   Estágio VB Informática - 2 dias
+          *   Estágio em Restaurante
+          *   Voluntário em Gala Bgreen - OFICINA
 
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
